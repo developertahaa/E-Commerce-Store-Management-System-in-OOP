@@ -1,0 +1,10 @@
+-------------------------
+Checkout details
+-------------------------
+Order ID: 42
+Subtotal: $240000
+Discount: $48000
+Discounted subtotal: $192000
+Tax (15%): $28800
+Total bill: $220800
+-------------------------

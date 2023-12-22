@@ -1,0 +1,2 @@
+Mobile,IPHONE 8,35000
+Laptop,DELL Latitude,50000
